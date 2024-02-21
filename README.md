@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pratyakshm/revenge_manifest/r11.0/assets/banner.jpg"> 
+<img src="https://raw.githubusercontent.com/r-mirror/android_manifest/r11.0/assets/banner.jpg"> 
 
 ## Build the ROM!
 To get started with the building process, you'll need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
